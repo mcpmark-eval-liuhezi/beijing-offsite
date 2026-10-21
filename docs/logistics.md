@@ -42,4 +42,7 @@ The best-located option is **The Peninsula Beijing**: it is the closest of the s
 
 ### Walking (reference only)
 
-- Distance: 1. file header + content...
+- Distance: 1.9 km
+- Duration: 32 mins
+
+Given transit is unavailable from this service, the drive (8 mins) or a walk (~32 mins) are the practical options for this short hop.
